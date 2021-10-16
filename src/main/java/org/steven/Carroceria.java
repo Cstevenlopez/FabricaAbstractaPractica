@@ -1,6 +1,6 @@
 package org.steven;
 
-public abstract class Carrocería {
+public abstract class Carroceria {
     private String Carroceria;
 
     public abstract String lcarroceria();
